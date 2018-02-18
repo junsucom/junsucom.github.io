@@ -30,7 +30,7 @@
   - Android, BLE, Gson, Volley
   - 정보통신산업진흥원 정부과제, 코엑스몰 코오롱메장 스마트 쇼핑 지원앱
   - https://play.google.com/store/apps/details?id=com.sqisoft.kss
-  - [소개영상](https://youtu.be/ttnfZsdnZBw)
+  - [소개영상](https://youtu.be/ttnfZsdnZBw)
   <p float="left">
       <img src="./images/kolon/intro.jpg" width="150">
       <img src="./images/kolon/main.jpg" width="150">
