@@ -1,21 +1,23 @@
 # junsu.com
 ## Projects
 - Eliga Player
-  - Exoplayer, Retrofit, RxJava
+  - Exoplayer, Volley(->Retrofit), RxJava, Android System Application
   - http://www.eligaspace.com
   - 사이니지 중앙 중앙관제솔루션 안드로이드 개발
-  
-- Megabox Menuboard(2017.05 ~ 2017.12)
-  - Exoplayer, Volley, Gson, UDP
+  - 스케줄링영상 Download&Play, 시스템제어, 서버로정보전달
+  
+- Megabox Menuboard(2017.05 ~ 2017.12) Android System Application 개발
+  - Exoplayer, Volley, Gson, UDP
   - 안드로이드 셋탑간 영상 동기화
   - ![](./images/megabox/megabox1.jpg)
   
 - 우체국 TV 홍보영상 송출 시스템(2016.05 ~ 2016.10)
-  - Exoplayer, Volley, Gson, 순번시스템장비연동
-  
-- 현대자동차 조립공정 통합정보시스템 안드로이드
+  - Exoplayer, Volley, Gson, 순번시스템장비연동(tcp/ip)
+  
+- 현대자동차 조립공정 통합정보시스템 안드로이드 테블릿앱 개발
+  - https, Camera, Volley, Gson
 
-- 현대자동차 스마트현장교육시스템 안드로이드
+- 현대자동차 스마트현장교육시스템 안드로이드 테블릿앱 개발
   - Beacon, Volley, picasso, custom calendar
   <p float="left">
       <img src="./images/hyundai/intro.jpg" width="150">
@@ -24,10 +26,12 @@
       <img src="./images/hyundai/book.jpg" width="150">
     </p>
     
-- 코오롱 스마트스토어 앱개발(2015.06 ~ 2015.09)
-  - Android, BLE, Gson, Volley
+- 코오롱 스마트스토어 (2015.06 ~ 2015.09) 안드로이드앱, Kinect 개발
+  - Android, BLE, Gson, Volley
   - 정보통신산업진흥원 정부과제, 코엑스몰 코오롱메장 스마트 쇼핑 지원앱
-  <p float="left">
+  - https://play.google.com/store/apps/details?id=com.sqisoft.kss
+  - [소개영상](https://youtu.be/ttnfZsdnZBw)
+  <p float="left">
       <img src="./images/kolon/intro.jpg" width="150">
       <img src="./images/kolon/main.jpg" width="150">
       <img src="./images/kolon/shoping.jpg" width="150"/>
